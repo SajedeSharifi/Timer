@@ -1,0 +1,11 @@
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\bin\Debug\My_First_WinForm.exe.config
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\bin\Debug\My_First_WinForm.exe
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\bin\Debug\My_First_WinForm.pdb
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.csproj.AssemblyReference.cache
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.Form1.resources
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.Properties.Resources.resources
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.csproj.GenerateResource.cache
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.exe
+C:\Users\Sajede\source\repos\My_First_WinForm\My_First_WinForm\obj\Debug\My_First_WinForm.pdb
